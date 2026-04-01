@@ -1,0 +1,15 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Data & Models 
+*.pth
+datasets/
+
+# IDE files
+.vscode/
